@@ -1,0 +1,14 @@
+Personal Author: Maietta, Andrea,
+Title All: The maker's manual : a practical guide to the new industrial revolution / Andrea Maietta and Paolo Aliverti. Make (Maker Media, Inc.)
+Author: Maietta, Andrea, Aliverti, Paolo,
+Local Call Number: 600
+ISBN: 9781457185922
+Edition: First edition.
+Physical Description: xii, 213 pages : color illustrations ; 25 cm
+Series: Make: Make (Maker Media, Inc.)
+Contents: Preface -- Part I: The world of the maker. Who are the makers ; The origins of the movement ; A new revolution? -- Part II: Realizing an idea. Can creativity be learned? ; From idea to project ; Project management ; Try, fail, and pick yourself up! ; Financing your work ; Collaboration -- Part III: From bits to atoms. Managing project files ; This is not a pipe ; 3D printing ; Milling ; Laser cutting -- Part IV: Giving life to objects. Electronics and fairy dust ; Arduino ; Expanding Arduino ; Raspberry Pi ; Processing ; The Internet of things.
+Subject Term:
+Cottage industries.
+Do-it-yourself work.
+Inventions.
+Hobbies.
