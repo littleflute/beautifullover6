@@ -1,0 +1,13 @@
+
+Personal Author: Barry, Paul, 1966-
+Title All: Head first programming : [a learner's guide to programming using the Python language] / Paul Barry, David Griffiths. Programming using the Python language Head first series.
+Author: Barry, Paul, 1966- Griffiths, David (David Garfield), 1942-
+Local Call Number: 005.133 PYTHON
+ISBN: 9780596802370
+Publication Information: Sebastopol, CA : O'Reilly, 2009.
+Physical Description: xxxiv, 406 p. : ill. ; 24 cm.
+Series: Head first Head first series.
+Subject Term:
+Python (Computer program language)
+Computer programming.
+Holds: 0
