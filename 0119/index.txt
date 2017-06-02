@@ -1,0 +1,12 @@
+Personal Author: Freeman, Eric, 1965-
+Title All: Head first JavaScript programming / Eric T. Freeman, Elisabeth Robson. Head first JavaScript programming : a brain-friendly guide JavaScript programming Head first series.
+Author: Freeman, Eric, 1965- Robson, Elisabeth.
+Local Call Number: 006.76 JAVASCRIPT
+ISBN: 9781449340131
+Edition: First edition.
+Physical Description: xxxvii, 661 pages : illustrations ; 24 cm.
+Series: Head first Head first series.
+Contents: A quick dip into JavaScript -- Writing real code -- Introducing functions -- Putting some order in your data -- Understanding objects -- Interacting with your web page -- Types, equality, conversion, and all that jazz -- Bringing it all together -- Asynchronous coding -- First-class functions -- Anonymous functions, scope, and closures -- Advanced object construction -- Using prototypes.
+Subject Term:
+JavaScript (Computer program language)
+OCLC: 844460894 844728972
