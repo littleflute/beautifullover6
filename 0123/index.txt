@@ -1,0 +1,10 @@
+
+Personal Author: Monk, Simon.
+Title All: Hacking electronics : an illustrated DIY guide for makers and hobbyists / Simon Monk.
+Author: Monk, Simon.
+Local Call Number: 621.38
+ISBN: 9780071802369
+Physical Description: xxiv, 274 pages : color illustrations ; 24 cm.
+Contents: Getting Started -- Theory and Practice -- Basic Hacks -- LEDs -- Batteries and Power -- Hacking Arduino -- Hacking with Modules -- Hacking with Sensors -- Audio Hacks -- Mending and Breaking Electronics -- Tools.
+Subject Term:
+Electronics -- Amateurs' manuals.
